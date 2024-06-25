@@ -9,7 +9,7 @@ const app = express();
 
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb+srv://vikas:vikas@cluster0.ohc7c0g.mongodb.net/', {
+mongoose.connect('ADD YOUR MONGODB CONNECTION STRING ', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
