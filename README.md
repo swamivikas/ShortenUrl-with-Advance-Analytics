@@ -40,10 +40,10 @@ this is a shorten url project with advacnce analytics
 #### Request  -> POST
 #### Endpoint -> /api/shorten
 #### Request Body ->  
-    ![image](https://github.com/swamivikas/ShortenUrl-with-Advance-Analytics/assets/108607735/bdf5f8e7-8059-4541-9647-f81c8267a8d0)
+![image](https://github.com/swamivikas/ShortenUrl-with-Advance-Analytics/assets/108607735/bdf5f8e7-8059-4541-9647-f81c8267a8d0)
 
 #### You will recieve an output like this 
-    ![image](https://github.com/swamivikas/ShortenUrl-with-Advance-Analytics/assets/108607735/05b83794-e5f4-4728-a4f6-e374ed9c50f3)
+![image](https://github.com/swamivikas/ShortenUrl-with-Advance-Analytics/assets/108607735/05b83794-e5f4-4728-a4f6-e374ed9c50f3)
 
 
 ### 2. Redirect URL
